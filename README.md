@@ -1,4 +1,4 @@
-# Simpl-Ping-Pong-game
+# Simple-Ping-Pong-game
 
 It's a simple Ping-pong game created on Python with PyGame. 
 
